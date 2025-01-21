@@ -1,0 +1,7 @@
+python==3.11.7 
+streamlit==1.41.1
+scikit-learn==1.6.0 # Or any other ML library you used
+numpy==1.26.4
+pandas==2.1.4
+pickle==4.0
+
