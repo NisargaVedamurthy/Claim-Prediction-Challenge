@@ -1,5 +1,0 @@
-streamlit
-scikit-learn  # Or any other ML library you used
-numpy
-pickle
-pandas
