@@ -2097,7 +2097,7 @@ if st.button("Predict"):
     if prediction==0:
         st.success("Sorry, You are not eligible to claim", icon=":material/thumb_down:")
     if prediction==1:   
-        st.success("You are not eligible to claim", icon=":material/thumb_up:")
+        st.success("You are eligible to claim", icon=":material/thumb_up:")
 
 
 # # display the name when the submit button is clicked
